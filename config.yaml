@@ -5,9 +5,10 @@ port:                 # default 12580
 # source list file
 source-files:
   # use local file
-  - source.yaml
+  # - source.yaml
   # use web file
   # - https://example.com/config/source.yaml
+  - https://raw.githubusercontent.com/leonardralph088/sub/refs/heads/main/source.yaml
 
 # ======= 可选项，留空使用default值  ======= #
 
