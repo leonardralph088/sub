@@ -1,0 +1,158 @@
+### format
+
+# # 模糊抓取订阅链接
+# - type: webfuzzsub
+#   options:
+#     url: https://raw.githubusercontent.com/du5/free/master/sub.list
+
+# # 订阅链接
+# - type: subscribe
+#   options:
+#     url: https://raw.githubusercontent.com/ssrsub/ssr/master/v2ray
+
+# # 网页模糊抓取
+# - type: webfuzz
+#   options:
+#     url: https://merlinblog.xyz/wiki/freess.html
+
+# # tg频道抓取
+# - type: tgchannel
+#   options:
+#     channel: ssrList
+#     num: 200
+
+# # 翻墙党论坛抓取
+# - type: web-fanqiangdang
+#   options:
+#     url: https://fanqiangdang.com/forum-48-1.html
+
+# # clash格式订阅链接
+# - type: clash
+#   options:
+#     url: https://raw.githubusercontent.com/du5/free/master/file/0909/Clash.yaml
+
+# # 某个网站抓取
+# - type: web-freessrxyz
+#   options:
+
+
+### github
+
+# https://github.com/wzdnzd/aggregator/issues/91
+- type: subscribe
+  options:
+    url: https://woyooo-distribute.hf.space/api/v1/subscribe?token=h3oz31g04pcd06uu&target=v2ray&list=true
+
+# https://github.com/ssrsub/ssr/tree/master
+- type: subscribe
+  options:
+    url: https://raw.githubusercontent.com/ssrsub/ssr/refs/heads/master/V2Ray
+
+# https://github.com/Pawdroid/Free-servers
+- type: subscribe
+  options:
+    url: https://raw.githubusercontent.com/Pawdroid/Free-servers/refs/heads/main/sub
+
+# https://github.com/ripaojiedian/freenode
+- type: subscribe
+  options:
+    url: https://raw.githubusercontent.com/ripaojiedian/freenode/refs/heads/main/sub
+
+# https://github.com/snakem982/proxypool
+- type: subscribe
+  options:
+    url: https://raw.githubusercontent.com/snakem982/proxypool/main/source/v2ray.txt
+
+# https://github.com/peasoft/NoMoreWalls
+- type: subscribe
+  options:
+    url: https://raw.githubusercontent.com/peasoft/NoMoreWalls/refs/heads/master/list.txt
+
+# https://github.com/soroushmirzaei/telegram-configs-collector
+- type: subscribe
+  options:
+    url: https://raw.githubusercontent.com/soroushmirzaei/telegram-configs-collector/main/splitted/mixed
+
+# https://github.com/barry-far/V2ray-Configs
+- type: webfuzz
+  options:
+    url: https://raw.githubusercontent.com/barry-far/V2ray-Configs/refs/heads/main/All_Configs_Sub.txt
+
+# https://github.com/awesome-vpn/awesome-vpn
+- type: webfuzz
+  options:
+    url: https://raw.githubusercontent.com/awesome-vpn/awesome-vpn/refs/heads/master/all
+
+# https://github.com/Barabama/FreeNodes
+- type: webfuzz
+  options:
+    url: https://raw.githubusercontent.com/Barabama/FreeNodes/refs/heads/main/nodes/nodev2ray.txt
+
+# https://github.com/ermaozi/get_subscribe
+- type: webfuzz
+  options:
+    url: https://raw.githubusercontent.com/ermaozi/get_subscribe/main/subscribe/v2ray.txt
+
+# https://github.com/vxiaov/free_proxies
+- type: clash
+  options:
+    url: https://raw.githubusercontent.com/vxiaov/free_proxies/refs/heads/main/clash/clash.provider.yaml
+
+# https://github.com/go4sharing/sub
+- type: clash
+  options:
+    url: https://raw.githubusercontent.com/go4sharing/sub/refs/heads/main/clash.yaml
+
+# https://github.com/qjlxg/aggregator
+- type: clash
+  options:
+    url: https://raw.githubusercontent.com/qjlxg/aggregator/refs/heads/main/clash/clash.yaml
+
+# https://github.com/anaer/Sub
+- type: clash
+  options:
+    url: https://pub-api-1.bianyuan.xyz/sub?target=clash&url=https%3A%2F%2Fraw.githubusercontent.com%2Fanaer%2FSub%2Frefs%2Fheads%2Fmain%2Fclash.yaml&insert=false&emoji=true&list=true&tfo=false&scv=false&fdn=false&sort=false&new_name=true
+
+# https://github.com/mfuu/v2ray
+- type: clash
+  options:
+    url: https://raw.githubusercontent.com/mfuu/v2ray/refs/heads/master/clash.yaml
+
+# https://github.com/Ruk1ng001/freeSub
+- type: clash
+  options:
+    url: https://raw.githubusercontent.com/Ruk1ng001/freeSub/refs/heads/main/clash.yaml
+
+
+### other
+
+- type: clash
+  options:
+    url: http://125.67.90.179:8002/clash/proxies
+- type: clash
+  options:
+    url: http://39.108.97.217:9008/clash/proxies
+- type: clash
+  options:
+    url: https://jich.tih2.eu.org/clash/proxies
+- type: clash
+  options:
+    url: http://kiwi2.cgweb.top/clash/proxies
+- type: clash
+  options:
+    url: http://155.248.172.106:12580/clash/proxies
+- type: clash
+  options:
+    url: http://141.147.161.50:12580/clash/proxies
+- type: clash
+  options:
+    url: http://66.42.50.118:12580/clash/proxies
+- type: clash
+  options:
+    url: http://140.238.31.152:12580/clash/proxies
+- type: clash
+  options:
+    url: http://128.204.223.70:28080/clash/proxies
+- type: clash
+  options:
+    url: https://clashe.eu.org/clash/proxies
