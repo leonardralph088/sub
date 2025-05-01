@@ -98,6 +98,11 @@
   options:
     url: https://raw.githubusercontent.com/mfbpn/tg_mfbpn_sub/refs/heads/main/trial
 
+# https://github.com/mahdibland/V2RayAggregator
+- type: subscribe
+  options:
+    url: https://raw.githubusercontent.com/mahdibland/V2RayAggregator/refs/heads/master/sub/sub_merge_base64.txt
+
 # https://github.com/barry-far/V2ray-Configs
 - type: webfuzz
   options:
@@ -168,27 +173,22 @@
   options:
     url: https://raw.githubusercontent.com/Ruk1ng001/freeSub/refs/heads/main/clash.yaml
 
-# https://github.com/mahdibland/V2RayAggregator
+# https://github.com/Q3dlaXpoaQ/V2rayN_Clash_Node_Getter
 - type: clash
   options:
-    url: https://raw.githubusercontent.com/mahdibland/V2RayAggregator/refs/heads/master/sub/sub_merge_yaml.yml
-
-# https://github.com/Q3dlaXpoaQ/V2rayN_Clash_Node_Getter
+    url: https://raw.githubusercontent.com/Q3dlaXpoaQ/V2rayN_Clash_Node_Getter/refs/heads/main/APIs/sc0.yaml
 - type: subscribe
   options:
-    url: https://pub-api-1.bianyuan.xyz/sub?target=v2ray&url=https%3A%2F%2Fraw.githubusercontent.com%2FQ3dlaXpoaQ%2FV2rayN_Clash_Node_Getter%2Frefs%2Fheads%2Fmain%2FAPIs%2Fsc0.yaml&insert=false&emoji=true&list=true&tfo=false&scv=false&fdn=false&sort=false
+    url: https://raw.githubusercontent.com/Q3dlaXpoaQ/V2rayN_Clash_Node_Getter/refs/heads/main/APIs/sc1.yaml
 - type: subscribe
   options:
-    url: https://pub-api-1.bianyuan.xyz/sub?target=v2ray&url=https%3A%2F%2Fraw.githubusercontent.com%2FQ3dlaXpoaQ%2FV2rayN_Clash_Node_Getter%2Frefs%2Fheads%2Fmain%2FAPIs%2Fsc1.yaml&insert=false&emoji=true&list=true&tfo=false&scv=false&fdn=false&sort=false
+    url: https://raw.githubusercontent.com/Q3dlaXpoaQ/V2rayN_Clash_Node_Getter/refs/heads/main/APIs/sc2.yaml
 - type: subscribe
   options:
-    url: https://pub-api-1.bianyuan.xyz/sub?target=v2ray&url=https%3A%2F%2Fraw.githubusercontent.com%2FQ3dlaXpoaQ%2FV2rayN_Clash_Node_Getter%2Frefs%2Fheads%2Fmain%2FAPIs%2Fsc2.yaml&insert=false&emoji=true&list=true&tfo=false&scv=false&fdn=false&sort=false
+    url: https://raw.githubusercontent.com/Q3dlaXpoaQ/V2rayN_Clash_Node_Getter/refs/heads/main/APIs/sc3.yaml
 - type: subscribe
   options:
-    url: https://pub-api-1.bianyuan.xyz/sub?target=v2ray&url=https%3A%2F%2Fraw.githubusercontent.com%2FQ3dlaXpoaQ%2FV2rayN_Clash_Node_Getter%2Frefs%2Fheads%2Fmain%2FAPIs%2Fsc3.yaml&insert=false&emoji=true&list=true&tfo=false&scv=false&fdn=false&sort=false
-- type: subscribe
-  options:
-    url: https://pub-api-1.bianyuan.xyz/sub?target=v2ray&url=https%3A%2F%2Fraw.githubusercontent.com%2FQ3dlaXpoaQ%2FV2rayN_Clash_Node_Getter%2Frefs%2Fheads%2Fmain%2FAPIs%2Fsc4.yaml&insert=false&emoji=true&list=true&tfo=false&scv=false&fdn=false&sort=false
+    url: https://raw.githubusercontent.com/Q3dlaXpoaQ/V2rayN_Clash_Node_Getter/refs/heads/main/APIs/sc4.yaml
 
 
 ### other
