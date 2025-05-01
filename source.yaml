@@ -171,7 +171,7 @@
 # https://github.com/mahdibland/V2RayAggregator
 - type: clash
   options:
-    url: https://pub-api-1.bianyuan.xyz/sub?target=clash&url=https%3A%2F%2Fraw.githubusercontent.com%2Fmahdibland%2FV2RayAggregator%2Frefs%2Fheads%2Fmaster%2Fsub%2Fsub_merge_yaml.yml&insert=false&emoji=true&list=false&tfo=false&scv=false&fdn=true&sort=false&new_name=true
+    url: https://pub-api-1.bianyuan.xyz/sub?target=clash&url=https%3A%2F%2Fraw.githubusercontent.com%2Fmahdibland%2FV2RayAggregator%2Frefs%2Fheads%2Fmaster%2Fsub%2Fsub_merge_yaml.yml&insert=false&emoji=true&list=true&tfo=false&scv=false&fdn=true&sort=false&new_name=true
 
 # https://github.com/Q3dlaXpoaQ/V2rayN_Clash_Node_Getter
 - type: clash
