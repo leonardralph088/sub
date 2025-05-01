@@ -176,19 +176,19 @@
 # https://github.com/Q3dlaXpoaQ/V2rayN_Clash_Node_Getter
 - type: clash
   options:
-    url: https://pub-api-1.bianyuan.xyz/sub?target=clash&url=https%3A%2F%2Fraw.githubusercontent.com%2FQ3dlaXpoaQ%2FV2rayN_Clash_Node_Getter%2Frefs%2Fheads%2Fmain%2FAPIs%2Fsc0.yaml&insert=false&emoji=true&list=true&tfo=false&scv=false&fdn=false&sort=false&new_name=true
-- type: subscribe
+    url: https://raw.githubusercontent.com/Q3dlaXpoaQ/V2rayN_Clash_Node_Getter/refs/heads/main/APIs/sc0.yaml
+- type: clash
   options:
-    url: https://pub-api-1.bianyuan.xyz/sub?target=clash&url=https%3A%2F%2Fraw.githubusercontent.com%2FQ3dlaXpoaQ%2FV2rayN_Clash_Node_Getter%2Frefs%2Fheads%2Fmain%2FAPIs%2Fsc1.yaml&insert=false&emoji=true&list=true&tfo=false&scv=false&fdn=false&sort=false&new_name=true
-- type: subscribe
+    url: https://raw.githubusercontent.com/Q3dlaXpoaQ/V2rayN_Clash_Node_Getter/refs/heads/main/APIs/sc1.yaml
+- type: clash
   options:
-    url: https://pub-api-1.bianyuan.xyz/sub?target=clash&url=https%3A%2F%2Fraw.githubusercontent.com%2FQ3dlaXpoaQ%2FV2rayN_Clash_Node_Getter%2Frefs%2Fheads%2Fmain%2FAPIs%2Fsc2.yaml&insert=false&emoji=true&list=true&tfo=false&scv=false&fdn=false&sort=false&new_name=true
-- type: subscribe
+    url: https://raw.githubusercontent.com/Q3dlaXpoaQ/V2rayN_Clash_Node_Getter/refs/heads/main/APIs/sc2.yaml
+- type: clash
   options:
-    url: https://pub-api-1.bianyuan.xyz/sub?target=clash&url=https%3A%2F%2Fraw.githubusercontent.com%2FQ3dlaXpoaQ%2FV2rayN_Clash_Node_Getter%2Frefs%2Fheads%2Fmain%2FAPIs%2Fsc3.yaml&insert=false&emoji=true&list=true&tfo=false&scv=false&fdn=false&sort=false&new_name=true
-- type: subscribe
+    url: https://raw.githubusercontent.com/Q3dlaXpoaQ/V2rayN_Clash_Node_Getter/refs/heads/main/APIs/sc3.yaml
+- type: clash
   options:
-    url: https://pub-api-1.bianyuan.xyz/sub?target=clash&url=https%3A%2F%2Fraw.githubusercontent.com%2FQ3dlaXpoaQ%2FV2rayN_Clash_Node_Getter%2Frefs%2Fheads%2Fmain%2FAPIs%2Fsc4.yaml&insert=false&emoji=true&list=true&tfo=false&scv=false&fdn=false&sort=false&new_name=true
+    url: https://raw.githubusercontent.com/Q3dlaXpoaQ/V2rayN_Clash_Node_Getter/refs/heads/main/APIs/sc4.yaml
 
 
 ### other
