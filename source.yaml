@@ -98,23 +98,6 @@
   options:
     url: https://raw.githubusercontent.com/mfbpn/tg_mfbpn_sub/refs/heads/main/trial
 
-# https://github.com/Q3dlaXpoaQ/V2rayN_Clash_Node_Getter
-- type: subscribe
-  options:
-    url: https://raw.githubusercontent.com/Q3dlaXpoaQ/V2rayN_Clash_Node_Getter/refs/heads/main/APIs/cg0.txt
-- type: subscribe
-  options:
-    url: https://raw.githubusercontent.com/Q3dlaXpoaQ/V2rayN_Clash_Node_Getter/refs/heads/main/APIs/cg1.txt
-- type: subscribe
-  options:
-    url: https://raw.githubusercontent.com/Q3dlaXpoaQ/V2rayN_Clash_Node_Getter/refs/heads/main/APIs/cg2.txt
-- type: subscribe
-  options:
-    url: https://raw.githubusercontent.com/Q3dlaXpoaQ/V2rayN_Clash_Node_Getter/refs/heads/main/APIs/cg3.txt
-- type: subscribe
-  options:
-    url: https://raw.githubusercontent.com/Q3dlaXpoaQ/V2rayN_Clash_Node_Getter/refs/heads/main/APIs/cg4.txt
-
 # https://github.com/barry-far/V2ray-Configs
 - type: webfuzz
   options:
@@ -189,6 +172,23 @@
 - type: clash
   options:
     url: https://raw.githubusercontent.com/Ruk1ng001/freeSub/refs/heads/main/clash.yaml
+
+# https://github.com/Q3dlaXpoaQ/V2rayN_Clash_Node_Getter
+- type: subscribe
+  options:
+    url: https://raw.githubusercontent.com/Q3dlaXpoaQ/V2rayN_Clash_Node_Getter/refs/heads/main/APIs/sc0.yaml
+- type: subscribe
+  options:
+    url: https://raw.githubusercontent.com/Q3dlaXpoaQ/V2rayN_Clash_Node_Getter/refs/heads/main/APIs/sc1.yaml
+- type: subscribe
+  options:
+    url: https://raw.githubusercontent.com/Q3dlaXpoaQ/V2rayN_Clash_Node_Getter/refs/heads/main/APIs/sc2.yaml
+- type: subscribe
+  options:
+    url: https://raw.githubusercontent.com/Q3dlaXpoaQ/V2rayN_Clash_Node_Getter/refs/heads/main/APIs/sc3.yaml
+- type: subscribe
+  options:
+    url: https://raw.githubusercontent.com/Q3dlaXpoaQ/V2rayN_Clash_Node_Getter/refs/heads/main/APIs/sc4.yaml
 
 
 ### other
